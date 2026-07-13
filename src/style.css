@@ -22,14 +22,14 @@ h2 {
 }
 
 .date {
-  opacity: 0.7;
   padding: 29px 0;
-  border-bottom: 1px dashed rgba(0, 0, 0, 0.4);
 }
 .city {
   display: flex;
   margin: 20px 0;
   justify-content: space-between;
+  opacity: 0.7;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.897);
 }
 .time {
   font-size: 48px;
